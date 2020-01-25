@@ -264,8 +264,9 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <h1><span class="yellow"><marquee behavior="alternate">!!! 背景画像は2019年4月17日(水)元FTS伊藤さんのご卒業記念お食事会 !!!</marquee></span></h1>	
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!--
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-
+-->
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー@魚盛 大宮店、が執り行われました !!!</marquee></span></h1>
 <h2>
