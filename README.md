@@ -260,11 +260,14 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
     </script>
     
         </section>
+
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!背景画像</marquee></span></h1>	
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
-<h1><span class="yellow"><marquee behavior="left">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー@魚盛 大宮店、が執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2020年1月24日(土)に元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー@魚盛 大宮店、が執り行われました !!!</marquee></span></h1>
 <h2>
 <SPAN style="margin-left:20px "><a href="https://r.gnavi.co.jp/g068264/map/" target="_blank" class="p">魚森map(クリックでリンク先に飛びます)<span><img src="uomori.JPG" alt="魚森map" width="1800"></span></a><br/> </SPAN></h2>
 
@@ -305,9 +308,10 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <br><br><br><br><br><br><br><br><br><br>
 
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!</marquee></span></h1>
+<!--
 <a href="https://torokoid.github.io/fts_furuhashi/20190417_002.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20190417_002.jpg" alt="サンプル画像" width="1800" /></a>
 <br><br><br><br><br>
+-->
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年11月15日(木)に元FTS古橋さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
