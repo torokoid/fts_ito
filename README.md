@@ -261,7 +261,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
     
         </section>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月17日(水)に元FTS伊藤さんのご卒業記念お食事会が執り行われました !!!背景画像</marquee></span></h1>	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 背景画像は2019年4月17日(水)元FTS伊藤さんのご卒業記念お食事会 !!!</marquee></span></h1>	
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="QR_furuhashi.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
