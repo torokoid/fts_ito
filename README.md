@@ -314,11 +314,34 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <br><br><br><br><br>
 -->
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2018年11月15日(木)に元FTS古橋さんのご卒業記念パーティーが執り行われました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-</main>
+<a href="20200124_001.JPG" data-lightbox="abc"><img src="20200124_001.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_002.JPG" data-lightbox="abc"><img src="20200124_002.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_003.JPG" data-lightbox="abc"><img src="20200124_003.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_004.JPG" data-lightbox="abc"><img src="20200124_004.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_005.JPG" data-lightbox="abc"><img src="20200124_005.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_006.JPG" data-lightbox="abc"><img src="20200124_006.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_007.JPG" data-lightbox="abc"><img src="20200124_007.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_008.JPG" data-lightbox="abc"><img src="20200124_008.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_009.JPG" data-lightbox="abc"><img src="20200124_009.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_010.JPG" data-lightbox="abc"><img src="20200124_010.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_011.JPG" data-lightbox="abc"><img src="20200124_011.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_012.JPG" data-lightbox="abc"><img src="20200124_012.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_013.JPG" data-lightbox="abc"><img src="20200124_013.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_014.JPG" data-lightbox="abc"><img src="20200124_014.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_015.JPG" data-lightbox="abc"><img src="20200124_015.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_016.JPG" data-lightbox="abc"><img src="20200124_016.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_017.JPG" data-lightbox="abc"><img src="20200124_017.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_018.JPG" data-lightbox="abc"><img src="20200124_018.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_019.JPG" data-lightbox="abc"><img src="20200124_019.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_020.JPG" data-lightbox="abc"><img src="20200124_020.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_021.JPG" data-lightbox="abc"><img src="20200124_021.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_022.JPG" data-lightbox="abc"><img src="20200124_022.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_023.JPG" data-lightbox="abc"><img src="20200124_023.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_024.JPG" data-lightbox="abc"><img src="20200124_024.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_025.JPG" data-lightbox="abc"><img src="20200124_025.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_026.JPG" data-lightbox="abc"><img src="20200124_026.JPG" alt="サンプル画像" width="200" /></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
