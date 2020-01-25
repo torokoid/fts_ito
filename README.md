@@ -336,5 +336,5 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 
 <!-- フッタ -->
  <footer><span class="snow">
- Copyright 2018/11/16 S.Hada
+ Copyright 2020/01/24 S.Hada
 	</span></footer>
