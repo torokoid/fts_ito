@@ -282,7 +282,9 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_001.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white"><img src="https://torokoid.github.io/fts_furuhashi/yaguchi.JPG" alt="サンプル画像" width="100" />for 矢口さん</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_002.JPG" alt="サンプル画像" width="1800" /></a>
-<h3><span class="white">矢口さん近況</span></h3>
+<h3><span class="white"><img src="https://torokoid.github.io/fts_furuhashi/kobayashi.JPG" alt="サンプル画像" width="100" />for 小林実さん</span></h3>
+<a href="https://torokoid.github.io/fts_furuhashi/20200124_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_003.JPG" alt="サンプル画像" width="1800" /></a>
+<h2><span class="white">矢口さん近況</span></h2>
 <h3><span class="white">1218 ITS-J 卒業式</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_005.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_005.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">FPC 卒業式</span></h3>
@@ -293,21 +295,18 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_008.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_008.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">ネスプレッソありがとう！</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_009.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_009.JPG" alt="サンプル画像" width="1800" /></a>
-<h3><span class="white"><img src="https://torokoid.github.io/fts_furuhashi/kobayashi.JPG" alt="サンプル画像" width="100" />for 小林実さん</span></h3>
-<a href="https://torokoid.github.io/fts_furuhashi/20200124_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_003.JPG" alt="サンプル画像" width="1800" /></a>
-<h3><span class="white">実さん近況</span></h3>
+
+<h2><span class="white">実さん近況</span></h2>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_004.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
+<!--
 <br><br><br>
 <span class="red"><span class="blinking"><b><h1>実さん近況_2</h1></b></span></span><br>
+-->
 <h3><span class="white">水戸偕楽園 on 茂木・水戸・大洗、周遊コース</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200120_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200120_001.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="https://torokoid.github.io/fts_furuhashi/20200120_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200120_002.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">蕎麦の里まぎの on 茂木・水戸・大洗、周遊コース</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200120_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200120_003.JPG" alt="サンプル画像" width="1800" /></a>
-
-
-<br><br><br><br><br><br><br><br><br><br>
-
 
 <!--
 <a href="https://torokoid.github.io/fts_furuhashi/20190417_002.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20190417_002.jpg" alt="サンプル画像" width="1800" /></a>
@@ -315,6 +314,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 -->
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="20200124_001.JPG" data-lightbox="abc"><img src="20200124_001.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_002.JPG" data-lightbox="abc"><img src="20200124_002.JPG" alt="サンプル画像" width="200" /></a>
