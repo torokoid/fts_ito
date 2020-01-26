@@ -348,6 +348,11 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_022.JPG" data-lightbox="abc"><img src="20200124_022.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20200124_023.JPG" data-lightbox="abc"><img src="20200124_023.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20200124_024.JPG" data-lightbox="abc"><img src="20200124_024.JPG" alt="サンプル画像" width="400" /></a>
+<h3><span class="white">伊藤さんご挨拶</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vNdcVrdJJ-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3><span class="white">矢口さんご挨拶</span></h3>
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
