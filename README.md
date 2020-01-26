@@ -328,20 +328,24 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_010.JPG" data-lightbox="abc"><img src="20200124_010.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_011.JPG" data-lightbox="abc"><img src="20200124_011.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_012.JPG" data-lightbox="abc"><img src="20200124_012.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_013.JPG" data-lightbox="abc"><img src="20200124_013.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_014.JPG" data-lightbox="abc"><img src="20200124_014.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_015.JPG" data-lightbox="abc"><img src="20200124_015.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_016.JPG" data-lightbox="abc"><img src="20200124_016.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_017.JPG" data-lightbox="abc"><img src="20200124_017.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_018.JPG" data-lightbox="abc"><img src="20200124_018.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_019.JPG" data-lightbox="abc"><img src="20200124_019.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_020.JPG" data-lightbox="abc"><img src="20200124_020.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_021.JPG" data-lightbox="abc"><img src="20200124_021.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_022.JPG" data-lightbox="abc"><img src="20200124_022.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_023.JPG" data-lightbox="abc"><img src="20200124_023.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20200124_024.JPG" data-lightbox="abc"><img src="20200124_024.JPG" alt="サンプル画像" width="200" /></a>
+<h3><span class="white">お孫さんシリーズ</span></h3>
 <a href="20200124_025.JPG" data-lightbox="abc"><img src="20200124_025.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_026.JPG" data-lightbox="abc"><img src="20200124_026.JPG" alt="サンプル画像" width="200" /></a>
+<h3><span class="white">矢口さんからのプレゼント（</span></h3>
+<a href="20200124_013.JPG" data-lightbox="abc"><img src="20200124_013.JPG" alt="サンプル画像" width="200" /></a>
+<h3><span class="white">ヤグチすべて本</span></h3>
+<a href="20200124_014.JPG" data-lightbox="abc"><img src="20200124_014.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_015.JPG" data-lightbox="abc"><img src="20200124_015.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_016.JPG" data-lightbox="abc"><img src="20200124_016.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20200124_017.JPG" data-lightbox="abc"><img src="20200124_017.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_018.JPG" data-lightbox="abc"><img src="20200124_018.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_019.JPG" data-lightbox="abc"><img src="20200124_019.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_020.JPG" data-lightbox="abc"><img src="20200124_020.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_021.JPG" data-lightbox="abc"><img src="20200124_021.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_022.JPG" data-lightbox="abc"><img src="20200124_022.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_023.JPG" data-lightbox="abc"><img src="20200124_023.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_024.JPG" data-lightbox="abc"><img src="20200124_024.JPG" alt="サンプル画像" width="400" /></a>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
 	
 	
