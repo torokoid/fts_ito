@@ -333,6 +333,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_025.JPG" data-lightbox="abc"><img src="20200124_025.JPG" alt="サンプル画像" width="200" /></a>
 <h3><span class="white">お孫さんシリーズ、横山さん</span></h3>
 <a href="20200124_026.JPG" data-lightbox="abc"><img src="20200124_026.JPG" alt="サンプル画像" width="200" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p2-fgK6S61U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3><span class="white">矢口さんからのプレゼント</span></h3>
 <a href="20200124_013.JPG" data-lightbox="abc"><img src="20200124_013.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_027.JPG" data-lightbox="abc"><img src="20200124_027.JPG" alt="サンプル画像" width="200" /></a>
@@ -351,7 +352,12 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <h3><span class="white">伊藤さんご挨拶</span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNdcVrdJJ-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3><span class="white">矢口さんご挨拶</span></h3>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LzUUGUukOqY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_yDNCzxO5uc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3><span class="white">小林実さんご挨拶</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vgKQ6kX8ip0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3><span class="white">横山さんご挨拶</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UOAAOK0Z74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
