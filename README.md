@@ -316,6 +316,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h3><span class="white">「魚盛」にて</span></h3>
 <a href="20200124_001.JPG" data-lightbox="abc"><img src="20200124_001.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_002.JPG" data-lightbox="abc"><img src="20200124_002.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_003.JPG" data-lightbox="abc"><img src="20200124_003.JPG" alt="サンプル画像" width="200" /></a>
@@ -330,8 +331,9 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="20200124_012.JPG" data-lightbox="abc"><img src="20200124_012.JPG" alt="サンプル画像" width="200" /></a>
 <h3><span class="white">お孫さんシリーズ</span></h3>
 <a href="20200124_025.JPG" data-lightbox="abc"><img src="20200124_025.JPG" alt="サンプル画像" width="200" /></a>
+<h3><span class="white">お孫さんシリーズ、横山さん</span></h3>
 <a href="20200124_026.JPG" data-lightbox="abc"><img src="20200124_026.JPG" alt="サンプル画像" width="200" /></a>
-<h3><span class="white">矢口さんからのプレゼント（</span></h3>
+<h3><span class="white">矢口さんからのプレゼント</span></h3>
 <a href="20200124_013.JPG" data-lightbox="abc"><img src="20200124_013.JPG" alt="サンプル画像" width="200" /></a>
 <h3><span class="white">ヤグチすべて本</span></h3>
 <a href="20200124_014.JPG" data-lightbox="abc"><img src="20200124_014.JPG" alt="サンプル画像" width="400" /></a>
