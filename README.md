@@ -337,8 +337,9 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <h3><span class="white">矢口さんからのプレゼント</span></h3>
 <a href="20200124_013.JPG" data-lightbox="abc"><img src="20200124_013.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_027.JPG" data-lightbox="abc"><img src="20200124_027.JPG" alt="サンプル画像" width="200" /></a>
-<h3><span class="white">ヤグチさん、すべて本</span></h3>
+<h3><span class="white">ヤグチさん、すべて本、1枚目と2枚目は差し替え画像・・・間違え探し</span></h3>
 <a href="20200124_014.JPG" data-lightbox="abc"><img src="20200124_014.JPG" alt="サンプル画像" width="400" /></a>
+<a href="20200124_028.JPG" data-lightbox="abc"><img src="20200124_028.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20200124_015.JPG" data-lightbox="abc"><img src="20200124_015.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_016.JPG" data-lightbox="abc"><img src="20200124_016.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20200124_017.JPG" data-lightbox="abc"><img src="20200124_017.JPG" alt="サンプル画像" width="400" /></a>
