@@ -291,7 +291,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_006.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_006.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">ESMOスケールモデル</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_007.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_007.JPG" alt="サンプル画像" width="1800" /></a>
-<h3><span class="white">ヤグチすべて本</span></h3>
+<h3><span class="white">ヤグチさん、すべて本</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_008.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_008.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">ネスプレッソありがとう！</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_009.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_009.JPG" alt="サンプル画像" width="1800" /></a>
