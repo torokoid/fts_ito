@@ -296,7 +296,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 <h3><span class="white">ネスプレッソありがとう！</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_009.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_009.JPG" alt="サンプル画像" width="1800" /></a>
 
-<h2><span class="white">実さん近況</span></h2><br>
+<h2><span class="white">実さん近況</span></h2>
 <h3><span class="white">写真の自転車は、クロモリ、２０万円</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200124_004.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200124_004.JPG" alt="サンプル画像" width="1800" /></a>
 <!--
@@ -305,7 +305,7 @@ document.write ("<br><br><br><br>Copyright 2019/12/03 S.Hada @ HGT 1G1");
 -->
 <h3><span class="white">水戸偕楽園 on 茂木・水戸・大洗、周遊コース</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200120_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200120_001.JPG" alt="サンプル画像" width="1800" /></a>
-<h3><span class="white">自転車はピナレロ、フルカーボン、コンポはBSアルテグラ、トータル5０万円に進化！</span></h3>
+<h3><span class="white">自転車はピナレロ、フルカーボン、コンポはBSアルテグラ、トータル5０万円に進化、記念品フル装備！</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200120_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200120_002.JPG" alt="サンプル画像" width="1800" /></a>
 <h3><span class="white">蕎麦の里まぎの on 茂木・水戸・大洗、周遊コース</span></h3>
 <a href="https://torokoid.github.io/fts_furuhashi/20200120_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/fts_furuhashi/20200120_003.JPG" alt="サンプル画像" width="1800" /></a>
