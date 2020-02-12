@@ -171,7 +171,7 @@ margin-left: 20px;
   より見やすくご覧頂けます。
 </p>
 <p><a href="https://torokoid.github.io/fts_home">Home</a>>元FTS伊藤さん、矢口さん、小林実さんのご卒業記念バーティー</p>
-<h1><span class="blue"><strong>簡易、支払い＆精算計算</strong></span></h1>
+<h2><span class="blue"><strong>簡易、支払い＆精算計算</strong></span></h2>
 
 
         
